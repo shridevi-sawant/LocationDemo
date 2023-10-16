@@ -16,6 +16,7 @@ class LocationUtility: NSObject {
     
     override init() {
         print("init of Location Utility")
+        print("New edit")
         super.init()
         locManager.desiredAccuracy = kCLLocationAccuracyHundredMeters
         locManager.distanceFilter = 10 // meters
