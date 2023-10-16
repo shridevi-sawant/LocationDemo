@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "488AB520-ACA5-4D2B-9664-90611A5CF351"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "593C7F34-9610-46B1-B962-65064B40859B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocationDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "mapClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "593C7F34-9610-46B1-B962-65064B40859B - 8714db393a49c138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocationDemo.ViewController.mapClick(Any) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shridevisawant/iOS/2023/Synchronoss/iOSProjects/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "593C7F34-9610-46B1-B962-65064B40859B - 8714db393a49c138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocationDemo.ViewController.mapClick(Any) -&gt; ()"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shridevisawant/iOS/2023/Synchronoss/iOSProjects/LocationDemo/LocationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
